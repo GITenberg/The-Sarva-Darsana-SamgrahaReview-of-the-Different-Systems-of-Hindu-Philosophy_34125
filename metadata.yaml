@@ -26,6 +26,8 @@ creator:
     gutenberg_agent_id: '36796'
     url: http://www.gutenberg.org/2009/agents/36796
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34125#The-Sarva-Darsana-SamgrahaReview-of-the-Different-Systems-of-Hindu-Philosophy
 gutenberg_issued: '2010-10-24'
 gutenberg_type: Text
 identifiers:
