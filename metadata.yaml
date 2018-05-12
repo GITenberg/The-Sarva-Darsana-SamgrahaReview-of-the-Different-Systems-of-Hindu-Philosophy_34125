@@ -1,0 +1,44 @@
+_repo: The-Sarva-Darsana-SamgrahaReview-of-the-Different-Systems-of-Hindu-Philosophy_34125
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Gough, Archibald Edward
+    alias: Gough, A. E. (Archibald Edward)
+    birthdate: 1845
+    gutenberg_agent_id: '36798'
+    url: http://www.gutenberg.org/2009/agents/36798
+  - agent_name: Cowell, Edward B. (Edward Byles)
+    aliases:
+    - Cowell, E. B. (Edward Byles)
+    - Cowell, Edward Byles
+    birthdate: 1826
+    deathdate: 1903
+    gutenberg_agent_id: '36797'
+    url: http://www.gutenberg.org/2009/agents/36797
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Madhava
+    alias: Acharya, Madhava
+    deathdate: 1386
+    gutenberg_agent_id: '36796'
+    url: http://www.gutenberg.org/2009/agents/36796
+description: ''
+gutenberg_issued: '2010-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34125'
+  lccn: '10021485'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Philosophy, Hindu'
+- !lcsh 'Philosophy, Indic'
+title: "The Sarva-Darsana-Samgraha\r\nOr, Review of the Different Systems of Hindu\
+  \ Philosophy"
+url: http://www.gutenberg.org/ebooks/34125
